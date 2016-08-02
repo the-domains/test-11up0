@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test]]></title>
+        <description><![CDATA[Test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 20:25:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Airbnb's Coolest Tiny Houses in America]]></title>
+            <description><![CDATA[<article><h1>Airbnb's Coolest Tiny Houses in America</h1><p>Tiny homes are all the rage, so it makes perfect sense that tiny homes people list on Airbnb are also quite popular. And that's&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d4b7ed13c3092febbf108d16b78e9903c0f56ac.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/travel/nation/airbnbs-coolest-tiny-houses-in-america/travel</link>
+            <guid isPermaLink="false">62096a44-5571-46ac-8edd-d2bd695e185b</guid>
+            <pubDate>Tue, 02 Aug 2016 20:25:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
